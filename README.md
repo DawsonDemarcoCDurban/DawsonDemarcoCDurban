@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DawsonDemarcoCDurban
-- 👀 I’m interested in programming GitHub.
-- 🌱 I’m currently learning GitHub. 
+- 👀 I’m interested in programming webpages.
+- 🌱 I’m currently learning how to program webpages.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me: Messenger: Dawson Demarco Durban, Discord: lespooder
 - 😄 Pronouns: Attack/helicopter
